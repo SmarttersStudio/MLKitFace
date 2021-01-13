@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "777403571240",
+    "firebase_url": "https://mlkit-d7293.firebaseio.com",
+    "project_id": "mlkit-d7293",
+    "storage_bucket": "mlkit-d7293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777403571240:android:df8fb1c94e53820d33691d",
+        "android_client_info": {
+          "package_name": "com.smarttersstudio.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777403571240-fceff4rm88597qaak5155i5do0rgkors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LeffYj7x7oLmwx35T-bz00rIYWNbcRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777403571240-fceff4rm88597qaak5155i5do0rgkors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777403571240:android:cca24af2021106aa33691d",
+        "android_client_info": {
+          "package_name": "com.smarttersstudio.mlkitface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777403571240-fceff4rm88597qaak5155i5do0rgkors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LeffYj7x7oLmwx35T-bz00rIYWNbcRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777403571240-fceff4rm88597qaak5155i5do0rgkors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
